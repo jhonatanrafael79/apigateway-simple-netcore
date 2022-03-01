@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rck8DFjI0v92qY88oYvgbpUcPTHKdG3KLPSasyyTN4wSaVE8Z/qzLbMkHdO2CnnvfQEDfAUp+JEqakx/UOLG2g==",
+  "success": true,
+  "projectFilePath": "G:\\OneDrive\\desarrollo\\portafolio\\apigateway\\ocelot-01\\ApiGatewayOcelotExample\\OrdersApi\\OrdersApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\RAFAEL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
